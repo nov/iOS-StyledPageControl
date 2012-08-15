@@ -1,0 +1,134 @@
+<?xml version='1.0'?>
+<signatures version='1.0'>
+<enum value='0' name='PageControlStyleDefault'/>
+<enum value='2' name='PageControlStylePressed1'/>
+<enum value='3' name='PageControlStylePressed2'/>
+<enum value='1' name='PageControlStyleStrokedCircle'/>
+<enum value='5' name='PageControlStyleThumb'/>
+<enum value='4' name='PageControlStyleWithPageNumber'/>
+<class name='StyledPageControl'>
+<method selector='coreNormalColor'>
+<retval type='@' declared_type='UIColor*'/>
+</method>
+<method selector='coreSelectedColor'>
+<retval type='@' declared_type='UIColor*'/>
+</method>
+<method selector='currentPage'>
+<retval type='i' declared_type='int'/>
+</method>
+<method selector='diameter'>
+<retval type='i' declared_type='int'/>
+</method>
+<method selector='gapWidth'>
+<retval type='i' declared_type='int'/>
+</method>
+<method selector='hidesForSinglePage'>
+<retval type='B' declared_type='BOOL'/>
+</method>
+<method selector='numberOfPages'>
+<retval type='i' declared_type='int'/>
+</method>
+<method selector='pageControlStyle'>
+<retval type='i' declared_type='PageControlStyle'/>
+</method>
+<method selector='selectedThumbImage'>
+<retval type='@' declared_type='UIImage*'/>
+</method>
+<method selector='selectedThumbImageForIndex'>
+<retval type='@' declared_type='NSMutableDictionary*'/>
+</method>
+<method selector='selectedThumbImageForIndex:'>
+<arg index='0' type='i' name='index' declared_type='NSInteger'/>
+<retval type='@' declared_type='UIImage*'/>
+</method>
+<method selector='setCoreNormalColor:'>
+<arg index='0' type='@' name='coreNormalColor' declared_type='UIColor*'/>
+<retval type='v' declared_type='void'/>
+</method>
+<method selector='setCoreSelectedColor:'>
+<arg index='0' type='@' name='coreSelectedColor' declared_type='UIColor*'/>
+<retval type='v' declared_type='void'/>
+</method>
+<method selector='setCurrentPage:'>
+<arg index='0' type='i' name='currentPage' declared_type='int'/>
+<retval type='v' declared_type='void'/>
+</method>
+<method selector='setDiameter:'>
+<arg index='0' type='i' name='diameter' declared_type='int'/>
+<retval type='v' declared_type='void'/>
+</method>
+<method selector='setGapWidth:'>
+<arg index='0' type='i' name='gapWidth' declared_type='int'/>
+<retval type='v' declared_type='void'/>
+</method>
+<method selector='setHidesForSinglePage:'>
+<arg index='0' type='B' name='hidesForSinglePage' declared_type='BOOL'/>
+<retval type='v' declared_type='void'/>
+</method>
+<method selector='setNumberOfPages:'>
+<arg index='0' type='i' name='numberOfPages' declared_type='int'/>
+<retval type='v' declared_type='void'/>
+</method>
+<method selector='setPageControlStyle:'>
+<arg index='0' type='i' name='pageControlStyle' declared_type='PageControlStyle'/>
+<retval type='v' declared_type='void'/>
+</method>
+<method selector='setSelectedThumbImage:'>
+<arg index='0' type='@' name='selectedThumbImage' declared_type='UIImage*'/>
+<retval type='v' declared_type='void'/>
+</method>
+<method selector='setSelectedThumbImage:forIndex:'>
+<arg index='0' type='@' name='aSelectedThumbImage' declared_type='UIImage*'/>
+<arg index='1' type='i' name='index' declared_type='NSInteger'/>
+<retval type='v' declared_type='void'/>
+</method>
+<method selector='setSelectedThumbImageForIndex:'>
+<arg index='0' type='@' name='selectedThumbImageForIndex' declared_type='NSMutableDictionary*'/>
+<retval type='v' declared_type='void'/>
+</method>
+<method selector='setStrokeNormalColor:'>
+<arg index='0' type='@' name='strokeNormalColor' declared_type='UIColor*'/>
+<retval type='v' declared_type='void'/>
+</method>
+<method selector='setStrokeSelectedColor:'>
+<arg index='0' type='@' name='strokeSelectedColor' declared_type='UIColor*'/>
+<retval type='v' declared_type='void'/>
+</method>
+<method selector='setStrokeWidth:'>
+<arg index='0' type='i' name='strokeWidth' declared_type='int'/>
+<retval type='v' declared_type='void'/>
+</method>
+<method selector='setThumbImage:'>
+<arg index='0' type='@' name='thumbImage' declared_type='UIImage*'/>
+<retval type='v' declared_type='void'/>
+</method>
+<method selector='setThumbImage:forIndex:'>
+<arg index='0' type='@' name='aThumbImage' declared_type='UIImage*'/>
+<arg index='1' type='i' name='index' declared_type='NSInteger'/>
+<retval type='v' declared_type='void'/>
+</method>
+<method selector='setThumbImageForIndex:'>
+<arg index='0' type='@' name='thumbImageForIndex' declared_type='NSMutableDictionary*'/>
+<retval type='v' declared_type='void'/>
+</method>
+<method selector='strokeNormalColor'>
+<retval type='@' declared_type='UIColor*'/>
+</method>
+<method selector='strokeSelectedColor'>
+<retval type='@' declared_type='UIColor*'/>
+</method>
+<method selector='strokeWidth'>
+<retval type='i' declared_type='int'/>
+</method>
+<method selector='thumbImage'>
+<retval type='@' declared_type='UIImage*'/>
+</method>
+<method selector='thumbImageForIndex'>
+<retval type='@' declared_type='NSMutableDictionary*'/>
+</method>
+<method selector='thumbImageForIndex:'>
+<arg index='0' type='i' name='index' declared_type='NSInteger'/>
+<retval type='@' declared_type='UIImage*'/>
+</method>
+</class>
+</signatures>

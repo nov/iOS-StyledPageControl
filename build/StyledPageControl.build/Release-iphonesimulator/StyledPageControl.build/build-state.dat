@@ -1,0 +1,95 @@
+TStyledPageControl
+v5
+r1
+cCheck dependencies
+cProcessPCH /var/folders/7n/t1dxy_755l1b1h67njshnw_hyq85qq/C/com.apple.Xcode.1031018231/SharedPrecompiledHeaders/StyledPageControl-Prefix-euyebqosryypfbgwelrjvfhvwquk/StyledPageControl-Prefix.pch.pth StyledPageControl/StyledPageControl-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/StyledPageControl.build/Release-iphonesimulator/StyledPageControl.build/Objects-normal/i386/StyledPageControl.o /Users/40029-matake/Desktop/tap_id/vendor/StyledPageControl/StyledPageControl/StyledPageControl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/40029-matake/Desktop/tap_id/vendor/StyledPageControl/build/libStyledPageControl.a normal i386
+cPBXCp StyledPageControl/StyledPageControl.h build/include/StyledPageControl/StyledPageControl.h
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F453DF80000000000000110
+t1329937912
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005028636F0000000000353830
+t1344824175
+s3487792
+
+N/Users/40029-matake/Desktop/tap_id/vendor/StyledPageControl/StyledPageControl/StyledPageControl-Prefix.pch
+c00000000502B4CC400000000000000AF
+t1345014980
+s175
+
+N/Users/40029-matake/Desktop/tap_id/vendor/StyledPageControl/StyledPageControl/StyledPageControl.h
+c00000000502B4D8F000000000000098F
+t1345015183
+s2447
+
+N/Users/40029-matake/Desktop/tap_id/vendor/StyledPageControl/StyledPageControl/StyledPageControl.m
+c00000000502B4D9E0000000000003444
+t1345015198
+s13380
+
+N/Users/40029-matake/Desktop/tap_id/vendor/StyledPageControl/build/StyledPageControl.build/Release-iphonesimulator/StyledPageControl.build/Objects-normal/i386/StyledPageControl.LinkFileList
+c00000000502B4DB700000000000000B2
+t1345015223
+s178
+
+N/Users/40029-matake/Desktop/tap_id/vendor/StyledPageControl/build/StyledPageControl.build/Release-iphonesimulator/StyledPageControl.build/Objects-normal/i386/StyledPageControl.o
+t2
+s0
+
+N/Users/40029-matake/Desktop/tap_id/vendor/StyledPageControl/build/include/StyledPageControl/StyledPageControl.h
+t2
+s0
+
+N/Users/40029-matake/Desktop/tap_id/vendor/StyledPageControl/build/libStyledPageControl.a
+t2
+s0
+
+N/var/folders/7n/t1dxy_755l1b1h67njshnw_hyq85qq/C/com.apple.Xcode.1031018231/SharedPrecompiledHeaders/StyledPageControl-Prefix-euyebqosryypfbgwelrjvfhvwquk/StyledPageControl-Prefix.pch.pth
+t1345015083
+s2572004
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies73d9543785dbb541^26715e3785dbb541^---0#1#0#--18"Check dependencies36"D4B9337D-2858-4123-B4DE-184C19F2D5E8-
+
+CCompileC build/StyledPageControl.build/Release-iphonesimulator/StyledPageControl.build/Objects-normal/i386/StyledPageControl.o /Users/40029-matake/Desktop/tap_id/vendor/StyledPageControl/StyledPageControl/StyledPageControl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s366708023.382350
+e366708023.553164
+r1
+xCompileC
+xbuild/StyledPageControl.build/Release-iphonesimulator/StyledPageControl.build/Objects-normal/i386/StyledPageControl.o
+x/Users/40029-matake/Desktop/tap_id/vendor/StyledPageControl/StyledPageControl/StyledPageControl.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/40029-matake/Desktop/tap_id/vendor/StyledPageControl/StyledPageControl/StyledPageControl.m6f0f623785dbb541^069c8d3785dbb541^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/40029-matake/Desktop/tap_id/vendor/StyledPageControl/StyledPageControl/StyledPageControl.m0000000000000000^4153"CompileC build/StyledPageControl.build/Release-iphonesimulator/StyledPageControl.build/Objects-normal/i386/StyledPageControl.o StyledPageControl/StyledPageControl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/40029-matake/Desktop/tap_id/vendor/StyledPageControl    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/40029-matake/.rvm/gems/ruby-1.9.3-p125/bin:/Users/40029-matake/.rvm/gems/ruby-1.9.3-p125@global/bin:/Users/40029-matake/.rvm/rubies/ruby-1.9.3-p125/bin:/Users/40029-matake/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/40029-matake/Desktop/tap_id/vendor/StyledPageControl/build/StyledPageControl.build/Release-iphonesimulator/StyledPageControl.build/StyledPageControl-generated-files.hmap -I/Users/40029-matake/Desktop/tap_id/vendor/StyledPageControl/build/StyledPageControl.build/Release-iphonesimulator/StyledPageControl.build/StyledPageControl-own-target-headers.hmap -I/Users/40029-matake/Desktop/tap_id/vendor/StyledPageControl/build/StyledPageControl.build/Release-iphonesimulator/StyledPageControl.build/StyledPageControl-all-target-headers.hmap -iquote /Users/40029-matake/Desktop/tap_id/vendor/StyledPageControl/build/StyledPageControl.build/Release-iphonesimulator/StyledPageControl.build/StyledPageControl-project-headers.hmap -I/Users/40029-matake/Desktop/tap_id/vendor/StyledPageControl/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/40029-matake/Desktop/tap_id/vendor/StyledPageControl/build/StyledPageControl.build/Release-iphonesimulator/StyledPageControl.build/DerivedSources/i386 -I/Users/40029-matake/Desktop/tap_id/vendor/StyledPageControl/build/StyledPageControl.build/Release-iphonesimulator/StyledPageControl.build/DerivedSources -F/Users/40029-matake/Desktop/tap_id/vendor/StyledPageControl/build -include /var/folders/7n/t1dxy_755l1b1h67njshnw_hyq85qq/C/com.apple.Xcode.1031018231/SharedPrecompiledHeaders/StyledPageControl-Prefix-euyebqosryypfbgwelrjvfhvwquk/StyledPageControl-Prefix.pch -MMD -MT dependencies -MF /Users/40029-matake/Desktop/tap_id/vendor/StyledPageControl/build/StyledPageControl.build/Release-iphonesimulator/StyledPageControl.build/Objects-normal/i386/StyledPageControl.d --serialize-diagnostics /Users/40029-matake/Desktop/tap_id/vendor/StyledPageControl/build/StyledPageControl.build/Release-iphonesimulator/StyledPageControl.build/Objects-normal/i386/StyledPageControl.dia -c /Users/40029-matake/Desktop/tap_id/vendor/StyledPageControl/StyledPageControl/StyledPageControl.m -o /Users/40029-matake/Desktop/tap_id/vendor/StyledPageControl/build/StyledPageControl.build/Release-iphonesimulator/StyledPageControl.build/Objects-normal/i386/StyledPageControl.o36"3AE38EC7-50F5-43BB-B23C-AECE6CB2141C-
+
+CLibtool /Users/40029-matake/Desktop/tap_id/vendor/StyledPageControl/build/libStyledPageControl.a normal i386
+s366708023.560322
+e366708023.586501
+r1
+xLibtool
+x/Users/40029-matake/Desktop/tap_id/vendor/StyledPageControl/build/libStyledPageControl.a
+xnormal
+xi386
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Libtool build/libStyledPageControl.a normal i3862383903785dbb541^b725963785dbb541^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#0#--1206"Libtool build/libStyledPageControl.a normal i386    cd /Users/40029-matake/Desktop/tap_id/vendor/StyledPageControl    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/40029-matake/.rvm/gems/ruby-1.9.3-p125/bin:/Users/40029-matake/.rvm/gems/ruby-1.9.3-p125@global/bin:/Users/40029-matake/.rvm/rubies/ruby-1.9.3-p125/bin:/Users/40029-matake/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -L/Users/40029-matake/Desktop/tap_id/vendor/StyledPageControl/build -filelist /Users/40029-matake/Desktop/tap_id/vendor/StyledPageControl/build/StyledPageControl.build/Release-iphonesimulator/StyledPageControl.build/Objects-normal/i386/StyledPageControl.LinkFileList -ObjC -framework Foundation -o /Users/40029-matake/Desktop/tap_id/vendor/StyledPageControl/build/libStyledPageControl.a36"DF7A2129-0345-4457-BF49-D513A744C62D-
+
+CPBXCp StyledPageControl/StyledPageControl.h build/include/StyledPageControl/StyledPageControl.h
+s366708023.594586
+e366708023.597438
+r1
+xPBXCp
+xStyledPageControl/StyledPageControl.h
+xbuild/include/StyledPageControl/StyledPageControl.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/include/StyledPageControl/StyledPageControl.h6e4f983785dbb541^f5f1983785dbb541^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/40029-matake/Desktop/tap_id/vendor/StyledPageControl/build/include/StyledPageControl/StyledPageControl.h000000000080d041^1002"PBXCp StyledPageControl/StyledPageControl.h build/include/StyledPageControl/StyledPageControl.h    cd /Users/40029-matake/Desktop/tap_id/vendor/StyledPageControl    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/40029-matake/.rvm/gems/ruby-1.9.3-p125/bin:/Users/40029-matake/.rvm/gems/ruby-1.9.3-p125@global/bin:/Users/40029-matake/.rvm/rubies/ruby-1.9.3-p125/bin:/Users/40029-matake/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/40029-matake/Desktop/tap_id/vendor/StyledPageControl/StyledPageControl/StyledPageControl.h /Users/40029-matake/Desktop/tap_id/vendor/StyledPageControl/build/include/StyledPageControl36"CC766380-D8C3-4667-8B65-40E0F1C2FE5F-
+
+CProcessPCH /var/folders/7n/t1dxy_755l1b1h67njshnw_hyq85qq/C/com.apple.Xcode.1031018231/SharedPrecompiledHeaders/StyledPageControl-Prefix-euyebqosryypfbgwelrjvfhvwquk/StyledPageControl-Prefix.pch.pth StyledPageControl/StyledPageControl-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
